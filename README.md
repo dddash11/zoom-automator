@@ -1,6 +1,6 @@
 ﻿# zoom-automator
  
- A simple hack to skip the pain of attending the zoom classes.
+ A simple hack to skip the pain of manually joining the zoom classes.
  
  ## dependencies
 - python 3
